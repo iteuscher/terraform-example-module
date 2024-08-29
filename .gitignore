@@ -25,3 +25,4 @@ test.log
 *.draft
 *~
 
+.DS_Store
